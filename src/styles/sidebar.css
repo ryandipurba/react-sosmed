@@ -1,0 +1,116 @@
+.sidebar{
+    padding: 20px;
+    flex: 0.2;
+    margin-top: 5px;
+    background-color: #f9f9f9ee;
+}
+
+.sidebar .logo_app{
+    font-size: 20pt;
+    color: #2f70bb;
+    font-weight: 800;
+    text-align: center;
+}
+
+.sidebar .desc_app{
+    font-size: 10pt;
+    color: navy;
+    margin-bottom: 100px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.profile {
+    border-radius: 10px;
+    padding: 15px;
+    border: solid 2px #f9f9f9ee;
+}
+
+.profile .name{
+    text-align: center;
+    font-size: 14pt;
+    color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 600;
+}
+
+.profile .desc{
+    font-size: 10pt;
+}
+
+.sidebar .btn_post{
+    background-color: #2f70bb;
+    margin: 10px auto ;
+    width: 40%;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.sidebar .btn_logout{
+    background-color: red;
+    margin: 120px auto ;
+    width: 40%;
+    height: 28px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.sidebar .btn_post:hover, 
+.sidebar .btn_post:active, 
+.sidebar .btn_post:focus,
+.modal-footer .btn_posting:hover, 
+.modal-footer .btn_posting:active, 
+.modal-footer .btn_posting:focus,
+.modal-footer .btn_yes:hover, 
+.modal-footer .btn_yes:active, 
+.modal-footer .btn_yes:focus,
+.modal-footer .btn_cancel:hover, 
+.modal-footer .btn_cancel:active, 
+.modal-footer .btn_cancel:focus {
+    background-color:#1f4b7e;
+    box-shadow: none;
+}
+
+.sidebar .btn_logout:hover, 
+.sidebar .btn_logout:active, 
+.sidebar .btn_logout:focus 
+.modal-footer .btn_cancel:hover, 
+.modal-footer .btn_cancel:active, 
+.modal-footer .btn_cancel:focus {
+    background-color:red;
+    box-shadow: none;
+
+}
+
+.modal-footer .btn_cancel {
+    background-color: white;
+    color:#2f70bb;
+    border-radius: 10px;
+}
+
+.modal-footer .btn_posting {
+    background-color:#2f70bb;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.modal-footer .btn_no {
+    background-color: red;
+    color:white;
+    border-radius: 10px;
+}
+
+.modal-footer .btn_yes {
+    background-color:#2f70bb;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+
+.modal .btn_cancel {
+    background-color: white;
+    color:#2f70bb;
+    border-radius: 10px;
+}
+

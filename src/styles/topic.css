@@ -1,0 +1,35 @@
+.search_topic{
+    margin: 50px 350px;
+    padding: 50px 100px;
+    border: solid 3px #2f70bb;
+    border-radius: 10px;
+}
+
+.search_topic .post {
+    padding: 10px 25px;
+    box-shadow: 2px 2px 0 2px transparent, 4px 4px 10px rgb(0 0 0 / 20%);
+    margin: 20px 10px;
+    border-radius: 10px;
+  }
+  
+  .search_topic .username {
+    flex: 1 0 50px;
+    font-weight: 600;
+    font-size: 12pt;
+    margin: 5px 0px;
+    color: rgb(66, 64, 64);
+  }
+  
+  .search_topic .topic-post {
+    font-weight: 500;
+    font-size: 10pt;
+    color: #ccc;;
+    margin-bottom: 5px;
+  }
+  
+  .search_topic .text{
+    max-width: 650px;
+  }
+
+  
+  

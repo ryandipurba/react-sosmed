@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Budaya"
+    },
+    {
+        "id": "2",
+        "name": "Ekonomi"
+    },
+    {
+        "id": "3",
+        "name": "Gaya Hidup"
+    },
+    {
+        "id": "4",
+        "name": "Hiburan"
+    },
+    {
+        "id": "5",
+        "name": "Kesehatan"
+    },
+    {
+        "id": "6",
+        "name": "Kuliner"
+    },
+    {
+        "id": "7",
+        "name": "Olahraga"
+    },
+    {
+        "id": "8",
+        "name": "Pendidikan"
+    },
+    {
+        "id": "9",
+        "name": "Politik"
+    },
+    {
+        "id": "10",
+        "name": "Teknologi"
+    }
+]
